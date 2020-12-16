@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\SERVICE\obj\Debug\SERVICE.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache

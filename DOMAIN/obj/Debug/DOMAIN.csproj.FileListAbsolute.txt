@@ -1,0 +1,12 @@
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.pdb
+C:\Cursos\6TO ciclo\DAWAV\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\Usuario\Desktop\Lab12_DAWAV_Paul-master\DOMAIN\obj\Debug\DOMAIN.pdb
